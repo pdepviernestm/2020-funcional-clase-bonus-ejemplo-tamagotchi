@@ -7,6 +7,6 @@ stack build
 
 stack ghc src/Main.hs
 
-./src/Main.hs
+./src/Main
 ```
 
