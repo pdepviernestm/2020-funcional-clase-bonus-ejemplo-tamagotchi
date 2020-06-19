@@ -1,7 +1,12 @@
-# ejercicio-alumno
+# Este repo es un ejemplo para una clase bonus de Haskell
 
-## Integrantes
+## Como lo corro?
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+```bash
+stack build
+
+stack ghc src/Main.hs
+
+./src/Main.hs
+```
+
